@@ -1,15 +1,16 @@
 # Socket Programming Chat Application base on PHP
-+++++++++++++++++++++++++++++++++++++++++++++++++
-+ Chat Application
+-------------------------------------------------
+
+# Chat Application
 <img align="center" src="https://github.com/HazhirGhafoori/socket-pr/blob/master/ScreenShot/ChatApplication.png" width="100%" />
 This is Chat Application based on PHP, mySQL, SocketProgramming and Ajax.
 Can Create User, Send and Recive Message from one User to other Users.
 
-+ SignUp User
-<img align="left" src="https://github.com/HazhirGhafoori/socket-pr/blob/master/ScreenShot/SignUp.png" width="50%" />
+# SignUp User
+<img align="left" src="https://github.com/HazhirGhafoori/socket-pr/blob/master/ScreenShot/SignUp.png" width="100%" />
 
-+ Search Username
-<img align="right" src="https://github.com/HazhirGhafoori/socket-pr/blob/master/ScreenShot/Search-User.png" width="50%" />
+# Search Username
+<img align="right" src="https://github.com/HazhirGhafoori/socket-pr/blob/master/ScreenShot/Search-User.png" width="100%" />
 
 # How Can I Run:
 1. import source code to your server
