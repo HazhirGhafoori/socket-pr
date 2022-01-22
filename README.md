@@ -6,10 +6,10 @@ This is Chat Application based on PHP, mySQL, SocketProgramming and Ajax.
 Can Create User, Send and Recive Message from one User to other Users.
 
 + SignUp User
-<img src="https://github.com/HazhirGhafoori/socket-pr/blob/master/ScreenShot/SignUp.png" width="50%" />
+<img align="left" src="https://github.com/HazhirGhafoori/socket-pr/blob/master/ScreenShot/SignUp.png" width="50%" />
 
 + Search Username
-<img src="https://github.com/HazhirGhafoori/socket-pr/blob/master/ScreenShot/Search-User.png" width="50%" />
+<img align="right" src="https://github.com/HazhirGhafoori/socket-pr/blob/master/ScreenShot/Search-User.png" width="50%" />
 
 # How Can I Run:
 1. import source code to your server
